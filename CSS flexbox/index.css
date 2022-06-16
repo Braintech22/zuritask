@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.blocks {
+    margin: 200px;
+    height: 300px;
+    width: 40%;
+    display: flex;
+}
+
+.bar1 {
+    background-color: chocolate;
+}
+
+.bar2 {
+    background-color: steelblue;
+}
+
+.bar3 {
+    background-color: rgb(1, 22, 24);
+}
+
+h1 {
+    color: white;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    color: white;
+    font-size: 10px;
+}
+
+button {
+    border-radius: 20px;
+    background-color: white;
+}
+
+h3 {
+    color: black;
+    font-size: smaller;
+}
